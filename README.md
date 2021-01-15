@@ -3,3 +3,4 @@
 # Team Members
 * Sean Alling (Teaching Assistant)
 * Darren Animo
+* Sejal Karanjkar
