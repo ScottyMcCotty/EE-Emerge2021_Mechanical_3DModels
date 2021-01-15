@@ -4,3 +4,4 @@
 * Sean Alling (Teaching Assistant)
 * Darren Animo
 * Sejal Karanjkar
+* Gisselle Ibarra
